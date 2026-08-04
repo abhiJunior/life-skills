@@ -2,7 +2,7 @@
 
 ## Question 1: Feynman Technique
 The Feynman Technique in one line:  
-👉 It’s a learning method where you deeply understand a concept by explaining or teaching it in simple terms, which exposes gaps in your knowledge.
+ It’s a learning method where you deeply understand a concept by explaining or teaching it in simple terms, which exposes gaps in your knowledge.
 
 ---
 
